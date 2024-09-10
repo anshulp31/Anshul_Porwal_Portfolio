@@ -13,7 +13,7 @@ function Footer() {
           <ul>
             <li>
               <a
-                href="https://www.linkedin.com/in/harshiltomar/"
+                href="https://www.linkedin.com/in/anshul-porwal-99b705206/"
                 className="hover:text-white transition-colors duration-300"
               >
                 Linkedin
