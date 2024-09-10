@@ -26,6 +26,7 @@ const content = [
       "Completed training in core subjects.",
     description2:
       "subjects, including Data Structures and Algorithms (DSA) and Object-Oriented Programming (OOP),during an internship at Persistent Systems.",
+      description3:"",
     techstack: "DSA, DBMS, OOP",
     content: (
       <div className="h-full w-full  flex items-center justify-center text-white">
