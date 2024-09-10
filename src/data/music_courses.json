@@ -1,0 +1,53 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "StudyNotion",
+      "slug": "guitar-fundamentals",
+      "description": "MERN based Full-Stack Application with Bcrypt hashing and User Management",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "github": "https://github.com/anshulp31/studynotion-edtech-project-Final",
+      "livelink": "",
+      "image": "/courses/studyNotion.png"
+    },
+    {
+      "id": 2,
+      "title": "Movix",
+      "slug": "piano-for-beginners",
+      "description": "Movie App built using Reactjs, Redux, CSS . TMDB api used for fetching data of movies ",
+      "price": 109.99,
+      "instructor": "Jane Smith",
+      "isFeatured": false,
+      "github": "",
+      "livelink": "https://github.com/anshulp31/Moviex_React-_TMDB_App",
+      "image": "/courses/Movix.png"
+    },
+    {
+      "id": 3,
+      "title": "Music-Edtech",
+      "slug": "drumming-mastery",
+      "description": "A High User Interface Site using Typescript and Nextjs with Aceternity UI based Animation Integrations",
+      "price": 129.99,
+      "instructor": "Mike Brown",
+      "github": "https://github.com/anshulp31/musicnextjs",
+      "livelink": "",
+      "isFeatured": false,
+      "image": "/courses/music.png"
+    },
+    {
+      "id": 4,
+      "title": "Mystery Messages",
+      "slug": "jazz-improvisation",
+      "description": "Users can create accounts and share unique links to receive anonymous feedback.",
+      "price": 139.99,
+      "instructor": "Chris Davis",
+      "github": "https://github.com/anshulp31/mystryMessages",
+      "livelink": "",
+      "isFeatured": false,
+      "image": "/courses/mystery.png"
+    }
+    
+  ]
+}
